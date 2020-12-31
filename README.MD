@@ -5,3 +5,4 @@
 # deletar uma branch git branch -D branchtest
 # fazendo merge
 # alterando READ
+# alterando READ
