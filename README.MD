@@ -4,3 +4,4 @@
 # enviando branchteste para o remoto- git push orgin branchteste
 # deletar uma branch git branch -D branchtest
 # fazendo merge
+# alterando READ
