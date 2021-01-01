@@ -9,3 +9,5 @@
 # mudando o arquivo READxxxy
 a
 b
+a
+b
