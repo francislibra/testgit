@@ -6,3 +6,6 @@
 # fazendo merge
 # alterando READ
 # alterando READ
+# mudando o arquivo READxxxy
+a
+b
